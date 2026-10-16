@@ -1,0 +1,10 @@
+# Environment variables containing private keys
+.env
+
+# Python virtual environment
+langgraph_env3/
+__pycache__/
+*.pyc
+
+# Streamlit cache and local configs
+.streamlit/
